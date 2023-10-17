@@ -6,7 +6,7 @@ Here is an initial table to what I'm planning to implement, I'll add more along 
 
 | DS Type | Path 
 |:-----:|:-----
-| Arrays | [Arrays](/Arrays/)
+| Arrays | [Arrays](Arrays/)
 | Linkes Lists | :x:
 | Stacks | :x:
 | Queues | :x:

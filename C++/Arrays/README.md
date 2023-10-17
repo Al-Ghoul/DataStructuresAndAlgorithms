@@ -19,5 +19,5 @@ An array is a fixed-size collection of elements of the same data type, stored in
 
 | Array Type | Implemented? 
 |:-----:|:-----
-| [Unordered](/Unordered/) | :white_check_mark:
+| [Unordered](Unordered/) | :white_check_mark:
 | Ordered | :x:
